@@ -80,7 +80,7 @@ TEENCODE_MAP = {
     "cmnl": "con mẹ nó luôn", "cmnr": "con mẹ nó rồi", "cmn": "con mẹ nó",
     "vcl": "vãi cả lồn", "vkl": "vãi cả lồn", "vcc": "vãi cả cặc", "vc": "vãi cặc",
     "vl": "vãi lồn", "vloz": "vãi lồn", "vlz": "vãi lồn",
-    "lz": "lồn", "lìn": "lồn", "cl": "cái lồn", "clg": "cái lồn gì", "clm": "con lồn mẹ",
+    "lz": "lồn", "lìn": "lồn", "cl": "cái lồn", "clg": "cái lồn gì", "clm": "cái lồn mẹ",
     "clgt": "cái lồn gì thế", "đb": "đầu buồi",
     "rr": "rẻ rách", "chóa": "chó", "chóá": "chó"
 }
